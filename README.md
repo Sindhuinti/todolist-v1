@@ -6,6 +6,6 @@
 - Expressjs
 
 ## Developed by 
- **Sindhu inti** 
+ **Sindhu inti** 👩🏻‍💻
 
 
