@@ -1,5 +1,5 @@
 # ToDoList app
-> a simple todolist app with no backend.
+> a simple todolist web app to add all your tasks and check them off if you did it.
 
 ## Build with
 - Nodejs 
